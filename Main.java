@@ -3,7 +3,7 @@ import company.utils.MathUtils;
 
 public class Main {
     public static void main(String[] args) {
-        int result = MathUtils.add(4,20);
+        int result = MathUtils.add(5,10);
         System.out.println("Result of addition: " + result);
 
         EmailMessenger emailMessenger = new EmailMessenger();
